@@ -39,6 +39,8 @@ Example:
    1. Make sure the extension settings: uncheck `Execute Only`, `Startup Screen` and `Stay Open`.
    1. the command will compile and output a `.app` application, which is executable from spotlight.
 
+`.applescript` files can run with command line too: `osascript filename.applescript`
+
 ### Method 2.2) write apple script (Script Editor)
 
 1. new a file with Script Editor, and export as format Text so that plain editor could read the content as well.
